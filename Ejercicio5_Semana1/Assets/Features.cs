@@ -17,7 +17,7 @@ public class Features : MonoBehaviour
     }
     void Feature2()
     {
-
+        Debug.Log("Listo");
     }
 
 }
