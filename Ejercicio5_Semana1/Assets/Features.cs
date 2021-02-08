@@ -15,5 +15,9 @@ public class Features : MonoBehaviour
     void Feature1() {
 
     }
+    void Feature2()
+    {
+
+    }
 
 }
